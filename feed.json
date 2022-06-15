@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kris Selberg&#x27;s Projects",
     "description": "",
-    "home_page_url": "https://krisselberg.com/projects",
-    "feed_url": "https://krisselberg.com/projects/feed.json",
+    "home_page_url": "https://krisselberg.github.io/projects",
+    "feed_url": "https://krisselberg.github.io/projects/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kris Selberg"
