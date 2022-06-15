@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Kris Selberg&#x27;s Projects</title>
-    <link href="https://krisselberg.github.io/projects/feed.xml" rel="self" />
-    <link href="https://krisselberg.github.io/projects" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <link href="https://krisselberg.com/projects/feed.xml" rel="self" />
+    <link href="https://krisselberg.com/projects" />
+    <updated>2022-06-15T12:33:10-05:00</updated>
     <author>
         <name>Kris Selberg</name>
     </author>
-    <id>https://krisselberg.github.io/projects</id>
+    <id>https://krisselberg.com/projects</id>
 
+    <entry>
+        <title>MathWorks Math Modeling Challenge</title>
+        <author>
+            <name>Kris Selberg</name>
+        </author>
+        <link href="https://krisselberg.com/projects/mathworks-math-modeling-challenge.html"/>
+        <id>https://krisselberg.com/projects/mathworks-math-modeling-challenge.html</id>
+
+        <updated>2022-06-15T12:33:10-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisselberg.com/projects/media/posts/8/mathworks_pic2-2.png" alt="" />
+                <div>
+<div>In March 2020, I worked in a team of five to solve problems related to the electric trucking industry, including calculating optimal placements of charging stations on certain routes, predicting the population of electric trucks 5, 10, and 20 years from now, and determining which routes are most important for developing charging stations first. We ended up placing first in the nation out of 760 teams and winning $20,000 in scholarship money. Our paper can be seen <a href="https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S133509PDF.pdf?ver=2020-08-20-120041-480" target="_blank" rel="noopener noreferrer">here</a> in SIAM Undergraduate Research Online, and a video of our presentation can be found <a href="https://www.youtube.com/watch?list=PLf_ipOSbWC86dNdRO-JUsrKjYO8wUyztH&amp;v=uS4JKTfgYVU&amp;feature=emb_title" target="_blank" rel="noopener noreferrer">here</a>.</div>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>

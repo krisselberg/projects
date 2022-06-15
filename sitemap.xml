@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://krisselberg.github.io/projects/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://krisselberg.com/projects/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://krisselberg.github.io/projects/</loc>
+<loc>https://krisselberg.com/projects/</loc>
+</url>
+<url>
+<loc>https://krisselberg.com/projects/mathworks-math-modeling-challenge.html</loc>
+<lastmod>2022-06-15T12:33:10-05:00</lastmod>
+<image:image>
+<image:loc>https://krisselberg.com/projects/media/posts/8/mathworks_pic2-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

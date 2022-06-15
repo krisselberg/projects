@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kris Selberg&#x27;s Projects",
     "description": "",
-    "home_page_url": "https://krisselberg.github.io/projects",
-    "feed_url": "https://krisselberg.github.io/projects/feed.json",
+    "home_page_url": "https://krisselberg.com/projects",
+    "feed_url": "https://krisselberg.com/projects/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kris Selberg"
     },
     "items": [
+        {
+            "id": "https://krisselberg.com/projects/mathworks-math-modeling-challenge.html",
+            "url": "https://krisselberg.com/projects/mathworks-math-modeling-challenge.html",
+            "title": "MathWorks Math Modeling Challenge",
+            "content_html": "<div>\n<div>In March 2020, I worked in a team of five to solve problems related to the electric trucking industry, including calculating optimal placements of charging stations on certain routes, predicting the population of electric trucks 5, 10, and 20 years from now, and determining which routes are most important for developing charging stations first. We ended up placing first in the nation out of 760 teams and winning $20,000 in scholarship money. Our paper can be seen <a href=\"https://www.siam.org/Portals/0/Publications/SIURO/Vol13/S133509PDF.pdf?ver=2020-08-20-120041-480\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> in SIAM Undergraduate Research Online, and a video of our presentation can be found <a href=\"https://www.youtube.com/watch?list=PLf_ipOSbWC86dNdRO-JUsrKjYO8wUyztH&amp;v=uS4JKTfgYVU&amp;feature=emb_title\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</div>\n</div>",
+            "image": "https://krisselberg.com/projects/media/posts/8/mathworks_pic2-2.png",
+            "author": {
+                "name": "Kris Selberg"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-15T10:37:16-05:00",
+            "date_modified": "2022-06-15T12:33:10-05:00"
+        }
     ]
 }
