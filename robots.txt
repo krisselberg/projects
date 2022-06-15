@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://krisselberg.com/projects/sitemap.xml
